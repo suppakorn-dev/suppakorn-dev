@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @suppakorn-dev
 - 👀 I’m interested in web application development.
-- 🌱 I’m currently learning react and golang.
-- 💞️ I’m looking to collaborate on open source project.
 - 📫 How to reach me -> suppakorn.dev@gmail.com
 
 <!---
